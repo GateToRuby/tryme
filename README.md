@@ -1,1 +1,1 @@
-We will try if it works.
+It does work indeed!
